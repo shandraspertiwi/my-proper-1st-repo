@@ -1,11 +1,13 @@
-###My first repository is awesome!
+## My first repository is awesome!
 
-I'm [PSEUDO/SHAN] and here it's my (proper) first Github repository. If you see this file on my project, it's because I'm learning Git.
+I'm **SHAN** and here it's my (proper) first Github repository. If you see this file on my project, it's because I'm learning Git.
 
 My mood:
 >[excited]
 
 My favorite color:
->[deepskyblue]
+```
+deepskyblue
+```
 
 Thank you so much for reading!😊
